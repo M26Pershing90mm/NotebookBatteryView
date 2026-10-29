@@ -150,8 +150,5 @@ Read the complete terms in **[LICENSE](LICENSE)**. This is **not** an OSI-approv
 - [Screenshot](BatteryView.png)
 - [Source build script](Build.bat)
 - [License](LICENSE)
-- [Issues and feedback](https://github.com/M26Pershing90mm/NotebookBatteryView/issues)
-
----
 
 **BatteryView 1.2.2 · Developed by Sakai · Copyright © 2026 Sakai**
