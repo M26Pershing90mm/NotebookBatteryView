@@ -119,9 +119,6 @@ The source code reads local Windows power information and battery WMI informatio
 - Creating a desktop shortcut is also user-initiated.
 - The executable does not request elevation in its manifest.
 - The executable is **not Authenticode-signed**.
-
-A project security review is available in [SECURITY-AUDIT-ko.md](SECURITY-AUDIT-ko.md). It documents source-level checks, previous hardening and testing limitations; **it is not an independent malware-free certification**. Some GUI and security checks were conducted in a controlled Mono environment, not across actual Windows hardware.
-
 ## Troubleshooting / 문제 해결
 
 - **No battery detected:** This can be normal on desktop computers. Check the laptop battery and its Windows driver.
