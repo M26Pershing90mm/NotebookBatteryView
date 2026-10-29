@@ -152,7 +152,6 @@ Read the complete terms in **[LICENSE](LICENSE)**. This is **not** an OSI-approv
 - [Repository](https://github.com/M26Pershing90mm/NotebookBatteryView)
 - [Screenshot](BatteryView.png)
 - [Source build script](Build.bat)
-- [Security audit (Korean)](SECURITY-AUDIT-ko.md)
 - [License](LICENSE)
 - [Issues and feedback](https://github.com/M26Pershing90mm/NotebookBatteryView/issues)
 
