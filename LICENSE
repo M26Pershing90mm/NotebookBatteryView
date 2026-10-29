@@ -1,0 +1,99 @@
+BatteryView Personal Non-Commercial License
+Version 1.0 — October 30, 2026
+
+Copyright (c) 2026 Sakai. All rights reserved.
+
+IMPORTANT: BatteryView is proprietary, source-available software. It is NOT
+licensed as open-source software. Please read these terms before use.
+
+1. Scope
+
+This License applies to BatteryView version 1.2.2, including its original
+source code, executable files, documentation, and assets distributed by the
+copyright holder, as well as later versions that explicitly reference this
+License (collectively, the "Software").
+
+2. Personal Non-Commercial License Grant
+
+Subject to compliance with this License, the copyright holder grants an
+individual a non-exclusive, worldwide, royalty-free, non-transferable license
+to:
+
+(a) Download, install, and run the Software on devices under that individual's
+    control solely for private, personal, non-commercial purposes;
+(b) Make copies reasonably necessary for personal installation and backup; and
+(c) Inspect the publicly provided source code and make private modifications
+    solely for the individual's own personal, non-commercial use.
+
+No fee is required for the permitted uses above.
+
+3. Prohibited Uses
+
+Without prior written permission from the copyright holder, you may NOT:
+
+(a) Use the Software in connection with any business, employment, professional
+    activity, paid service, commercial product, revenue-generating activity,
+    or on behalf of an organization, whether or not the particular use earns
+    direct revenue;
+(b) Sell, rent, lease, sublicense, transfer, redistribute, publish, mirror,
+    re-upload, bundle, or otherwise provide copies of the Software, its source
+    code, or modified versions to others;
+(c) Distribute or publicly release a modified version, derivative work,
+    repackaged installer, or compiled build based on the Software; or
+(d) Remove or misrepresent the copyright notices, license terms, or
+    attribution contained in the Software.
+
+You may share links to the copyright holder's official distribution pages,
+including the official GitHub repository or Releases page, provided you do not
+redistribute the Software itself.
+
+4. Ownership and Third-Party Materials
+
+The Software is licensed, not sold. All rights not expressly granted remain
+reserved by Sakai. Any independently licensed third-party components, if
+present, remain subject to their respective license terms. Nothing in this
+License overrides rights of third-party copyright holders.
+
+5. Hosting Platform and Legal Exceptions
+
+Nothing in this License limits rights that GitHub users receive under GitHub's
+applicable Terms of Service for using GitHub functionality, including viewing
+and forking public repositories within GitHub. This does not authorize separate
+redistribution or commercial exploitation of the Software outside permissions
+otherwise expressly granted.
+
+Nothing in this License restricts acts that applicable law expressly permits
+notwithstanding contractual limitations.
+
+6. Termination
+
+The rights granted under this License terminate if you breach its terms and
+fail to remedy the breach, if remediable, within 30 days after receiving written
+notice from the copyright holder. On termination, you must stop using the
+Software and delete copies in your possession or control, except where retention
+is required or permitted by applicable law. Sections 4, 5, and 7 survive
+termination to the extent applicable.
+
+7. Disclaimer of Warranty and Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER WILL
+NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, OR BUSINESS, ARISING FROM
+THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+8. Separate Permissions
+
+Commercial licensing, redistribution, and any other use not expressly
+permitted by this License require separate, prior written authorization from
+the copyright holder, Sakai. Requests may be made through the official
+BatteryView project repository.
+
+9. Severability
+
+If any provision of this License is found unenforceable, the remaining
+provisions will continue in effect to the extent permitted by law.
